@@ -2,6 +2,7 @@ file = open("input.txt", "r")
 
 """
   Points for win -> 6
+  Points for draw -> 3
   Points for loss -> 0
 
   A -> Rock (1)       X -> Rock (1)
